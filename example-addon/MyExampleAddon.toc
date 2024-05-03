@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: MyExampleAddon
+## Notes: An example addon
+## Author: Imevul
+## Version: 1.0.0-Release
+## SavedVariables: MyExampleAddonDB
+## OptionalDeps: SynastriaItemDB-1.0
+## X-Embeds: SynastriaItemDB-1.0
+## X-Category: Imevul
+
+embeds.xml
+
+MyExampleAddon.lua

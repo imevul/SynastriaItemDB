@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: SynastriaItemDB-1.0
+## Notes: A database containing attunable items from Synastria
+## Author: dustin789, Imevul
+## Version: 1.0.0-Release
+## X-Category: Synastria
+
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+#@end-no-lib-strip@
+
+SynastriaItemDB-1.0\SynastriaItemDB-1.0.lua
